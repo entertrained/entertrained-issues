@@ -1,4 +1,4 @@
-![Logo Entertrained](https://entertrained.app/media-pack/logos-png/entertrained-logo-full-large.png)
+![Logo Entertrained](https://entertrained.app/media-pack/logos-png/entertrained-logo-full-medium.png)
 
 # entertrained-issues
 
